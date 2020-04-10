@@ -1,0 +1,9 @@
+D:\Projetos\TakeChat\Take.Chat.Console\Take.Chat.Shared\bin\Debug\netstandard2.0\Take.Chat.Shared.deps.json
+D:\Projetos\TakeChat\Take.Chat.Console\Take.Chat.Shared\bin\Debug\netstandard2.0\Take.Chat.Shared.dll
+D:\Projetos\TakeChat\Take.Chat.Console\Take.Chat.Shared\bin\Debug\netstandard2.0\Take.Chat.Shared.pdb
+D:\Projetos\TakeChat\Take.Chat.Console\Take.Chat.Shared\obj\Debug\netstandard2.0\Take.Chat.Shared.csprojAssemblyReference.cache
+D:\Projetos\TakeChat\Take.Chat.Console\Take.Chat.Shared\obj\Debug\netstandard2.0\Take.Chat.Shared.csproj.CoreCompileInputs.cache
+D:\Projetos\TakeChat\Take.Chat.Console\Take.Chat.Shared\obj\Debug\netstandard2.0\Take.Chat.Shared.AssemblyInfoInputs.cache
+D:\Projetos\TakeChat\Take.Chat.Console\Take.Chat.Shared\obj\Debug\netstandard2.0\Take.Chat.Shared.AssemblyInfo.cs
+D:\Projetos\TakeChat\Take.Chat.Console\Take.Chat.Shared\obj\Debug\netstandard2.0\Take.Chat.Shared.dll
+D:\Projetos\TakeChat\Take.Chat.Console\Take.Chat.Shared\obj\Debug\netstandard2.0\Take.Chat.Shared.pdb
